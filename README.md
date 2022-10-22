@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FlairTheG
+- 👀 I’m interested in GLua
+- 🌱 I’m currently learning GLua and SQL
+- 📫 How to reach me : {
+-  "Dicord : Flair#4901"
+-  "Email : Kastrupnoel@gmail.com"
+-  }
